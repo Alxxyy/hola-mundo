@@ -6,3 +6,5 @@ sigo añadiendo
 =======
 Aprendiendo GIT
 >>>>>>> .merge_file_a10136
+
+otra linea de prueba
